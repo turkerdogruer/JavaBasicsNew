@@ -25,4 +25,4 @@ public class Calculator {
 }
 
 //We created above a method with name div, mult,sub those except two 
-//parramets of integer type
+//parameters of integer type

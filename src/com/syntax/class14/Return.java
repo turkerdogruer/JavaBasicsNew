@@ -38,7 +38,7 @@ public class Return {
 		return color;
 	}
 
-	
+	                       
 	public String toString() {
 		return ("Hi my name is " + this.getName() + ".\nMy breed,age and color are " + this.getBreed() + ","
 				+ this.getAge() + "," + this.getColor());

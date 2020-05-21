@@ -1,5 +1,5 @@
 package com.syntax.class11;
-
+                               // if kisimlarini iyice anla
 public class StringValidation {
 	public static void main(String[] args) {
 		String str1 = "Welcome syntax students";
@@ -11,7 +11,7 @@ public class StringValidation {
 		System.out.println(str1.equalsIgnoreCase(str2));
 
 		String expected = "Home - Syntax Technology";
-		String actual = "Home - Syntax Technology";
+		String actual = "   Home - Syntax Technology";
 
 		if (expected.equals(actual)) {
 			System.out.println("Test case pass. Title are matched");
